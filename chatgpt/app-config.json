@@ -1,0 +1,9 @@
+{
+  "name": "MetaForge Live Market Research",
+  "description": "Trade-focused MetaForge ARC Raiders intelligence with live updates and trade evaluation.",
+  "instructions": "Use /market/research-center for live context, /market/live-updates for streaming updates, and /market/trade-evaluation for deal decisions.",
+  "schema_url": "http://localhost:8000/openapi.json",
+  "authentication": {
+    "type": "none"
+  }
+}
