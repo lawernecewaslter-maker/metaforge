@@ -1,0 +1,16 @@
+{
+  "theme": "dark",
+  "auto_check_updates": false,
+  "update_url": "",
+  "build": {
+    "app_name": "MetaForgeTradeAI",
+    "version": "1.1.0",
+    "icon_path": "assets/app.ico",
+    "output_dir": "release",
+    "one_file": true,
+    "windowed": true,
+    "optimize": 2,
+    "upx": true,
+    "extra_pyinstaller_args": []
+  }
+}
