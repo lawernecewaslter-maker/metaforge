@@ -53,6 +53,14 @@ Windows `.exe` build (on Windows machine):
 desktop\build_windows_exe.bat
 ```
 
+What the script now does automatically:
+- Detects `py -3` or `python`
+- Switches to repo root even if launched from another folder
+- Creates isolated `.venv-build`
+- Installs `pyinstaller`
+- Cleans old `build/` and `dist/`
+- Verifies `dist\MetaForgeTradeAI.exe` exists
+
 Output executable:
 - `dist/MetaForgeTradeAI.exe`
 
