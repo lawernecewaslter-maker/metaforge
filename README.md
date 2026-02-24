@@ -68,3 +68,9 @@ Output executable:
 
 For secure options and architecture, see `ACCOUNT_ACCESS_GUIDE.md`.
 
+
+## Download prebuilt EXE (no Python on your PC)
+
+If you want a direct download and do not want to run Python locally, use GitHub Actions artifacts.
+
+See `DOWNLOAD_NOW.md` for exact click-by-click steps.
